@@ -1,2 +1,2 @@
 # Python-Website-Blocker
-GUI baesd website blocker using Tkinter
+GUI based website blocker using Tkinter
