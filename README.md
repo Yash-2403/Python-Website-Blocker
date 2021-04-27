@@ -1,4 +1,4 @@
-# Python-Website-Blocker
+## Python-Website-Blocker
 GUI based website blocker using Tkinter
 
 The objective of Website Blocker python project is to block the given websites from any device. This project will help the user to stay away from their distraction by blocking websites from their device so that they can not open them.
